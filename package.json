@@ -1,6 +1,11 @@
 {
-  "name": "jonot-app",
+  "name": "react-project",
   "version": "0.1.0",
+  "description": "I tried to come up with a funny name, but none of my jokes got a REACTion",
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/DynomiteDiamond/gci-react.git"
+  },
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
